@@ -45,7 +45,7 @@
 
 <p align="center">
     <a href="https://github.com/vishal10kesharwani/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt='Vishal Kesharwani's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal1kesharwani&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt='Vishal Kesharwani's streak"   src="https://github-readme-streak-stats.herokuapp.com/?user=vishal10kesharwani&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -54,14 +54,12 @@
   <br/>
     <a href="https://github.com/vishal10kesharwani/github-readme-stats"><img alt="Vishal Kesharwani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vishal10kesharwani&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/vishal10kesharwani/github-readme-stats"><img alt="Visjal Kesharwani's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal10kesharwani&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=vishal10kesharwani&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
-
-<a href="https://github.com/vishal10kesharwani/github-readme-activity-graph"><img alt="Vishal Kesharwani's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vishal10kesharwani&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
