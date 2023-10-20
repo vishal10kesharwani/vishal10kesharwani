@@ -83,4 +83,9 @@
 
 
 [![@vishal10kesharwani's Holopin board](https://holopin.io/api/user/board?user=vishal10kesharwani)](https://holopin.io/@vishal10kesharwani)
-
+<br/>
+<br/>
+[![vishal10kesharwani's GitHub | Stats](https://stats.quine.sh/vishal10kesharwani/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=vishal10kesharwani)
+[![vishal10kesharwani's GitHub | Dependencies](https://stats.quine.sh/vishal10kesharwani/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=vishal10kesharwani)
+[![vishal10kesharwani's GitHub | Topics Over Time](https://stats.quine.sh/vishal10kesharwani/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=vishal10kesharwani)
+[![vishal10kesharwani's GitHub | Languages Over Time](https://stats.quine.sh/vishal10kesharwani/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=vishal10kesharwani)
